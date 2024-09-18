@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "id": "624d",
+      "phoneNumber": "9108841417",
+      "password": "roza1381"
+    }
+  ],
+  "messages": [
+    {
+      "id": "0701",
+      "name": "رزا ",
+      "phoneNumber": "1234567847",
+      "message": "سلام "
+    },
+    {
+      "id": "1353",
+      "name": "roooosa",
+      "phoneNumber": "4785214785",
+      "message": "hiiiiiiiiii"
+    }
+  ],
+  "ring": [
+    {
+      "id": "21b3",
+      "productCategory": "ring",
+      "productName": "Gold Ring",
+      "productPrice": "1000",
+      "productDescription": "A beautiful gold ring",
+      "productId": "123zxc",
+      "productImage": "https://i.pinimg.com/564x/dc/9a/52/dc9a5282e47197795bf94841810deb25.jpg"
+    },
+    {
+      "id": "40ac",
+      "productCategory": "ring",
+      "productName": "Silver Ring",
+      "productPrice": "800",
+      "productDescription": "A classic silver ring",
+      "productId": "123asd",
+      "productImage": "https://i.pinimg.com/564x/39/c6/e9/39c6e9e9b646adedfa83a8ecc1b3b167.jpg"
+    },
+    {
+      "id": "ee07",
+      "productCategory": "ring",
+      "productName": "Diamond Ring",
+      "productPrice": "2500",
+      "productDescription": "A shiny diamond ring",
+      "productId": "456zxv",
+      "productImage": "https://i.pinimg.com/564x/41/a2/ab/41a2abb3f33d5cb02d501870871317e4.jpg"
+    },
+    {
+      "id": "73ad",
+      "productCategory": "ring",
+      "productName": "Platinum Ring",
+      "productPrice": "3000",
+      "productDescription": "A sleek platinum ring",
+      "productId": "456cvb",
+      "productImage": "https://i.pinimg.com/564x/0a/a6/17/0aa617a78cf96304b752c00db949334c.jpg"
+    },
+    {
+      "id": "fe75",
+      "productCategory": "ring",
+      "productName": "Rose Gold Ring",
+      "productPrice": "1400",
+      "productDescription": "A rose gold ring with elegant design",
+      "productId": "741gth",
+      "productImage": "https://i.pinimg.com/564x/5d/f0/25/5df025d169eaf81b5dd5770934eb91bd.jpg"
+    },
+    {
+      "id": "c76a",
+      "productCategory": "ring",
+      "productName": "Topaz Ring",
+      "productPrice": "1600",
+      "productDescription": "A ring with a sparkling topaz gemstone",
+      "productId": "345rty",
+      "productImage": "https://i.pinimg.com/564x/30/f4/4f/30f44f3e5c2b5edcdd09b1b5626c8064.jpg"
+    }
+  ],
+  "necklace": [
+    {
+      "productId": "222edr",
+      "productName": "Silver Necklace",
+      "productPrice": "500",
+      "productDescription": "An elegant silver necklace",
+      "productCategory": "necklace",
+      "productImage": "https://i.pinimg.com/564x/b8/66/f3/b866f38b3a2169fea5feac84c313bff2.jpg"
+    },
+    {
+      "productId": "445hbg",
+      "productName": "Pearl Necklace",
+      "productPrice": "1200",
+      "productDescription": "A classic pearl necklace",
+      "productCategory": "necklace",
+      "productImage": "https://i.pinimg.com/564x/8d/6b/3e/8d6b3e460408a8218fb68e896a4e5e7a.jpg"
+    },
+    {
+      "productId": "578kik",
+      "productName": "Ruby Necklace",
+      "productPrice": "1500",
+      "productDescription": "A beautiful ruby necklace",
+      "productCategory": "necklace",
+      "productImage": "https://i.pinimg.com/564x/cd/a2/bc/cda2bcb21272778590bb80c059a7d890.jpg"
+    },
+    {
+      "productId": "666ppp",
+      "productName": "Emerald Necklace",
+      "productPrice": "1800",
+      "productDescription": "An exquisite emerald necklace",
+      "productCategory": "necklace",
+      "productImage": "https://i.pinimg.com/564x/89/39/3d/89393de1aa81d523bfc65b2ebecec0bb.jpg"
+    },
+    {
+      "productId": "748ppp",
+      "productName": "Sapphire Necklace",
+      "productPrice": "1600",
+      "productDescription": "A luxurious sapphire necklace",
+      "productCategory": "necklace",
+      "productImage": "https://i.pinimg.com/564x/0f/96/06/0f9606190cc5efd68cfc7f1b02e6af1a.jpg"
+    }
+  ],
+  "anklet": [
+    {
+      "productId": "ank001",
+      "productName": "Gold Anklet",
+      "productPrice": "800",
+      "productDescription": "A beautiful gold anklet",
+      "productCategory": "anklet",
+      "productImage": "https://i.pinimg.com/564x/78/40/21/784021cefa68630a83931448090395de.jpg"
+    },
+    {
+      "productId": "ank002",
+      "productName": "Silver Anklet",
+      "productPrice": "600",
+      "productDescription": "An elegant silver anklet",
+      "productCategory": "anklet",
+      "productImage": "https://i.pinimg.com/564x/35/0b/61/350b616456925580772858c0591d30dd.jpg"
+    },
+    {
+      "productId": "ank003",
+      "productName": "Diamond Anklet",
+      "productPrice": "1200",
+      "productDescription": "A stunning diamond anklet",
+      "productCategory": "anklet",
+      "productImage": "https://i.pinimg.com/564x/ab/cd/8a/abcd8a7da39b346bb238522060b92acc.jpg"
+    },
+    {
+      "productId": "ank004",
+      "productName": "Pearl Anklet",
+      "productPrice": "1000",
+      "productDescription": "A classic pearl anklet",
+      "productCategory": "anklet",
+      "productImage": "https://i.pinimg.com/736x/83/ad/f6/83adf6b6c4da631a71777e14d77a826c.jpg"
+    },
+    {
+      "productId": "ank005",
+      "productName": "Ruby Anklet",
+      "productPrice": "1100",
+      "productDescription": "A beautiful ruby anklet",
+      "productCategory": "anklet",
+      "productImage": "https://i.pinimg.com/736x/65/43/7e/65437e7e0e7d778838b305bce8caf798.jpg"
+    },
+    {
+      "productId": "ank006",
+      "productName": "Emerald Anklet",
+      "productPrice": "1300",
+      "productDescription": "An exquisite emerald anklet",
+      "productCategory": "anklet",
+      "productImage": "https://i.pinimg.com/736x/73/35/7d/73357d0dfbcb6f33d1bbdf1d1cb8d629.jpg"
+    }
+  ],
+  "earings": [
+    {
+      "productId": "er001",
+      "productName": "Gold Hoop Earrings",
+      "productPrice": "1200",
+      "productDescription": "Stylish gold hoop earrings",
+      "productCategory": "earring",
+      "productImage": "https://i.pinimg.com/564x/a2/fa/c1/a2fac1a504353100e0ac24dd22e2b613.jpg"
+    },
+    {
+      "productId": "er002",
+      "productName": "Diamond Stud Earrings",
+      "productPrice": "1800",
+      "productDescription": "Elegant diamond stud earrings",
+      "productCategory": "earring",
+      "productImage": "https://i.pinimg.com/564x/43/6a/9f/436a9fe526b1e4c6f82112da0957ed76.jpg"
+    },
+    {
+      "productId": "er003",
+      "productName": "Gold Drop Earrings",
+      "productPrice": "950",
+      "productDescription": "Beautiful gold drop earrings",
+      "productCategory": "earring",
+      "productImage": "https://i.pinimg.com/564x/b0/28/9a/b0289aabf73f63b98904a50d156c80cd.jpg"
+    }
+  ],
+  "weddingRing": [
+    {
+      "productId": "wr001",
+      "productName": "Gold Wedding Ring",
+      "productPrice": "2000",
+      "productDescription": "A classic gold wedding ring",
+      "productCategory": "weddingRing",
+      "productImage": "https://i.pinimg.com/564x/e7/c9/6a/e7c96a61cb18721b966bb15efa783386.jpg"
+    },
+    {
+      "productId": "wr002",
+      "productName": "Silver Wedding Ring",
+      "productPrice": "1500",
+      "productDescription": "An elegant silver wedding ring",
+      "productCategory": "weddingRing",
+      "productImage": "https://i.pinimg.com/564x/c1/1d/63/c11d638f13c37fe1bc6602c112b157ed.jpg"
+    },
+    {
+      "productId": "wr003",
+      "productName": "Diamond Wedding Ring",
+      "productPrice": "5000",
+      "productDescription": "A luxurious diamond wedding ring",
+      "productCategory": "weddingRing",
+      "productImage": "https://i.pinimg.com/564x/dc/9a/52/dc9a5282e47197795bf94841810deb25.jpg"
+    },
+    {
+      "productId": "wr004",
+      "productName": "Platinum Wedding Ring",
+      "productPrice": "3000",
+      "productDescription": "A stunning platinum wedding ring",
+      "productCategory": "weddingRing",
+      "productImage": "https://i.pinimg.com/564x/5d/3d/7b/5d3d7b7b5a5e14dfe83e75b4a5fa0f75.jpg"
+    }
+  ],
+  "bracelet": [
+    {
+      "productId": "brc001",
+      "productName": "Gold Bracelet",
+      "productPrice": "900",
+      "productDescription": "A beautiful gold bracelet",
+      "productCategory": "bracelet",
+      "productImage": "https://i.pinimg.com/564x/47/99/0e/47990e29b594921cf2740f16f71918f4.jpg"
+    },
+    {
+      "productId": "brc002",
+      "productName": "Silver Bracelet",
+      "productPrice": "700",
+      "productDescription": "An elegant silver bracelet",
+      "productCategory": "bracelet",
+      "productImage": "https://i.pinimg.com/564x/cc/67/b9/cc67b947c6f6dc85261cf63bb27d58ec.jpg"
+    },
+    {
+      "productId": "brc003",
+      "productName": "Diamond Bracelet",
+      "productPrice": "1500",
+      "productDescription": "A luxurious diamond bracelet",
+      "productCategory": "bracelet",
+      "productImage": "https://i.pinimg.com/736x/bd/5a/7f/bd5a7f61463ee2cc8c30835f6bb7a9f7.jpg"
+    },
+    {
+      "productId": "brc004",
+      "productName": "Pearl Bracelet",
+      "productPrice": "1300",
+      "productDescription": "A stunning Pearl bracelet",
+      "productCategory": "bracelet",
+      "productImage": "https://i.pinimg.com/564x/66/ac/70/66ac70624d932000d05e46ac50a98590.jpg"
+    }
+  ]
+}

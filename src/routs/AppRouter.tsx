@@ -12,6 +12,7 @@ import Users from "../pages/Users";
 import AdminPanel from "../components/AdminPanel";
 import Products from "../components/Products";
 import DynamicCategory from "../components/DynamicCategory";
+import SizeGuide from "../pages/SizeGuide";
 const AppRouter = () => {
   const router = createBrowserRouter([
     {
@@ -38,6 +39,10 @@ const AppRouter = () => {
         {
           path: "/Signup",
           element: <Signup />,
+        },
+        {
+          path: "/SizeGuide",
+          element: <SizeGuide />,
         },
         {
           path: "/Products",

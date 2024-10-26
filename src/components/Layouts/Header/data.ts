@@ -11,7 +11,7 @@ export const links = [
     },
     {
         id:3,
-        url:'/',
+        url:'/SizeGuide',
         text:' SizeGuide '
     },
     {
@@ -23,5 +23,10 @@ export const links = [
         id:5,
         url:'/aboutUs',
         text:'OUR STORY'
+    },
+    {
+        id:6,
+        url:'/signup',
+        text:'SIGNUP'
     },
 ]

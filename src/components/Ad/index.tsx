@@ -5,7 +5,7 @@ interface AdProps {}
 
 const Ad: React.FC<AdProps> = (): JSX.Element => {
   return (
-    <div className="flex justify-around items-center bg-gray-200 p-6 w-full">
+    <div className="flex justify-around items-center bg-gray-200 p-6 w-full my-16 h-60">
     <div className="flex flex-col items-center text-center p-4">
       <img src={location} alt="Free Shipping" className="w-16 h-16 mb-2" />
       <h2 className="text-xl font-bold">Free Shipping</h2>

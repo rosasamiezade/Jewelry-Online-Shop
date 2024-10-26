@@ -4,6 +4,12 @@
       "id": "624d",
       "phoneNumber": "9108841417",
       "password": "roza1381"
+    },
+    {
+      "id": "6e8a",
+      "phoneNumber": "9108841417",
+      "password": "roza1381",
+      "confirmPassword": "roza1381"
     }
   ],
   "messages": [
@@ -83,7 +89,8 @@
       "productPrice": "500",
       "productDescription": "An elegant silver necklace",
       "productCategory": "necklace",
-      "productImage": "https://i.pinimg.com/564x/b8/66/f3/b866f38b3a2169fea5feac84c313bff2.jpg"
+      "productImage": "https://i.pinimg.com/564x/b8/66/f3/b866f38b3a2169fea5feac84c313bff2.jpg",
+      "id": "778d"
     },
     {
       "productId": "445hbg",
@@ -91,7 +98,8 @@
       "productPrice": "1200",
       "productDescription": "A classic pearl necklace",
       "productCategory": "necklace",
-      "productImage": "https://i.pinimg.com/564x/8d/6b/3e/8d6b3e460408a8218fb68e896a4e5e7a.jpg"
+      "productImage": "https://i.pinimg.com/564x/8d/6b/3e/8d6b3e460408a8218fb68e896a4e5e7a.jpg",
+      "id": "1087"
     },
     {
       "productId": "578kik",
@@ -99,7 +107,8 @@
       "productPrice": "1500",
       "productDescription": "A beautiful ruby necklace",
       "productCategory": "necklace",
-      "productImage": "https://i.pinimg.com/564x/cd/a2/bc/cda2bcb21272778590bb80c059a7d890.jpg"
+      "productImage": "https://i.pinimg.com/564x/cd/a2/bc/cda2bcb21272778590bb80c059a7d890.jpg",
+      "id": "99cf"
     },
     {
       "productId": "666ppp",
@@ -107,7 +116,8 @@
       "productPrice": "1800",
       "productDescription": "An exquisite emerald necklace",
       "productCategory": "necklace",
-      "productImage": "https://i.pinimg.com/564x/89/39/3d/89393de1aa81d523bfc65b2ebecec0bb.jpg"
+      "productImage": "https://i.pinimg.com/564x/89/39/3d/89393de1aa81d523bfc65b2ebecec0bb.jpg",
+      "id": "892d"
     },
     {
       "productId": "748ppp",
@@ -115,7 +125,8 @@
       "productPrice": "1600",
       "productDescription": "A luxurious sapphire necklace",
       "productCategory": "necklace",
-      "productImage": "https://i.pinimg.com/564x/0f/96/06/0f9606190cc5efd68cfc7f1b02e6af1a.jpg"
+      "productImage": "https://i.pinimg.com/564x/0f/96/06/0f9606190cc5efd68cfc7f1b02e6af1a.jpg",
+      "id": "d7b0"
     }
   ],
   "anklet": [
@@ -125,7 +136,8 @@
       "productPrice": "800",
       "productDescription": "A beautiful gold anklet",
       "productCategory": "anklet",
-      "productImage": "https://i.pinimg.com/564x/78/40/21/784021cefa68630a83931448090395de.jpg"
+      "productImage": "https://i.pinimg.com/564x/78/40/21/784021cefa68630a83931448090395de.jpg",
+      "id": "0b53"
     },
     {
       "productId": "ank002",
@@ -133,7 +145,8 @@
       "productPrice": "600",
       "productDescription": "An elegant silver anklet",
       "productCategory": "anklet",
-      "productImage": "https://i.pinimg.com/564x/35/0b/61/350b616456925580772858c0591d30dd.jpg"
+      "productImage": "https://i.pinimg.com/564x/35/0b/61/350b616456925580772858c0591d30dd.jpg",
+      "id": "cdc1"
     },
     {
       "productId": "ank003",
@@ -141,7 +154,8 @@
       "productPrice": "1200",
       "productDescription": "A stunning diamond anklet",
       "productCategory": "anklet",
-      "productImage": "https://i.pinimg.com/564x/ab/cd/8a/abcd8a7da39b346bb238522060b92acc.jpg"
+      "productImage": "https://i.pinimg.com/564x/ab/cd/8a/abcd8a7da39b346bb238522060b92acc.jpg",
+      "id": "741b"
     },
     {
       "productId": "ank004",
@@ -149,7 +163,8 @@
       "productPrice": "1000",
       "productDescription": "A classic pearl anklet",
       "productCategory": "anklet",
-      "productImage": "https://i.pinimg.com/736x/83/ad/f6/83adf6b6c4da631a71777e14d77a826c.jpg"
+      "productImage": "https://i.pinimg.com/736x/83/ad/f6/83adf6b6c4da631a71777e14d77a826c.jpg",
+      "id": "63dd"
     },
     {
       "productId": "ank005",
@@ -157,7 +172,8 @@
       "productPrice": "1100",
       "productDescription": "A beautiful ruby anklet",
       "productCategory": "anklet",
-      "productImage": "https://i.pinimg.com/736x/65/43/7e/65437e7e0e7d778838b305bce8caf798.jpg"
+      "productImage": "https://i.pinimg.com/736x/65/43/7e/65437e7e0e7d778838b305bce8caf798.jpg",
+      "id": "0bc3"
     },
     {
       "productId": "ank006",
@@ -165,7 +181,8 @@
       "productPrice": "1300",
       "productDescription": "An exquisite emerald anklet",
       "productCategory": "anklet",
-      "productImage": "https://i.pinimg.com/736x/73/35/7d/73357d0dfbcb6f33d1bbdf1d1cb8d629.jpg"
+      "productImage": "https://i.pinimg.com/736x/73/35/7d/73357d0dfbcb6f33d1bbdf1d1cb8d629.jpg",
+      "id": "5d02"
     }
   ],
   "earings": [
@@ -175,7 +192,8 @@
       "productPrice": "1200",
       "productDescription": "Stylish gold hoop earrings",
       "productCategory": "earring",
-      "productImage": "https://i.pinimg.com/564x/a2/fa/c1/a2fac1a504353100e0ac24dd22e2b613.jpg"
+      "productImage": "https://i.pinimg.com/564x/a2/fa/c1/a2fac1a504353100e0ac24dd22e2b613.jpg",
+      "id": "ff71"
     },
     {
       "productId": "er002",
@@ -183,7 +201,8 @@
       "productPrice": "1800",
       "productDescription": "Elegant diamond stud earrings",
       "productCategory": "earring",
-      "productImage": "https://i.pinimg.com/564x/43/6a/9f/436a9fe526b1e4c6f82112da0957ed76.jpg"
+      "productImage": "https://i.pinimg.com/564x/43/6a/9f/436a9fe526b1e4c6f82112da0957ed76.jpg",
+      "id": "178b"
     },
     {
       "productId": "er003",
@@ -191,7 +210,8 @@
       "productPrice": "950",
       "productDescription": "Beautiful gold drop earrings",
       "productCategory": "earring",
-      "productImage": "https://i.pinimg.com/564x/b0/28/9a/b0289aabf73f63b98904a50d156c80cd.jpg"
+      "productImage": "https://i.pinimg.com/564x/b0/28/9a/b0289aabf73f63b98904a50d156c80cd.jpg",
+      "id": "7b13"
     }
   ],
   "weddingRing": [
@@ -201,7 +221,8 @@
       "productPrice": "2000",
       "productDescription": "A classic gold wedding ring",
       "productCategory": "weddingRing",
-      "productImage": "https://i.pinimg.com/564x/e7/c9/6a/e7c96a61cb18721b966bb15efa783386.jpg"
+      "productImage": "https://i.pinimg.com/564x/e7/c9/6a/e7c96a61cb18721b966bb15efa783386.jpg",
+      "id": "bdda"
     },
     {
       "productId": "wr002",
@@ -209,7 +230,8 @@
       "productPrice": "1500",
       "productDescription": "An elegant silver wedding ring",
       "productCategory": "weddingRing",
-      "productImage": "https://i.pinimg.com/564x/c1/1d/63/c11d638f13c37fe1bc6602c112b157ed.jpg"
+      "productImage": "https://i.pinimg.com/564x/c1/1d/63/c11d638f13c37fe1bc6602c112b157ed.jpg",
+      "id": "3af4"
     },
     {
       "productId": "wr003",
@@ -217,7 +239,8 @@
       "productPrice": "5000",
       "productDescription": "A luxurious diamond wedding ring",
       "productCategory": "weddingRing",
-      "productImage": "https://i.pinimg.com/564x/dc/9a/52/dc9a5282e47197795bf94841810deb25.jpg"
+      "productImage": "https://i.pinimg.com/564x/dc/9a/52/dc9a5282e47197795bf94841810deb25.jpg",
+      "id": "2783"
     },
     {
       "productId": "wr004",
@@ -225,7 +248,8 @@
       "productPrice": "3000",
       "productDescription": "A stunning platinum wedding ring",
       "productCategory": "weddingRing",
-      "productImage": "https://i.pinimg.com/564x/5d/3d/7b/5d3d7b7b5a5e14dfe83e75b4a5fa0f75.jpg"
+      "productImage": "https://i.pinimg.com/564x/5d/3d/7b/5d3d7b7b5a5e14dfe83e75b4a5fa0f75.jpg",
+      "id": "a3d2"
     }
   ],
   "bracelet": [
@@ -235,7 +259,8 @@
       "productPrice": "900",
       "productDescription": "A beautiful gold bracelet",
       "productCategory": "bracelet",
-      "productImage": "https://i.pinimg.com/564x/47/99/0e/47990e29b594921cf2740f16f71918f4.jpg"
+      "productImage": "https://i.pinimg.com/564x/47/99/0e/47990e29b594921cf2740f16f71918f4.jpg",
+      "id": "3dc1"
     },
     {
       "productId": "brc002",
@@ -243,7 +268,8 @@
       "productPrice": "700",
       "productDescription": "An elegant silver bracelet",
       "productCategory": "bracelet",
-      "productImage": "https://i.pinimg.com/564x/cc/67/b9/cc67b947c6f6dc85261cf63bb27d58ec.jpg"
+      "productImage": "https://i.pinimg.com/564x/cc/67/b9/cc67b947c6f6dc85261cf63bb27d58ec.jpg",
+      "id": "1f7c"
     },
     {
       "productId": "brc003",
@@ -251,7 +277,8 @@
       "productPrice": "1500",
       "productDescription": "A luxurious diamond bracelet",
       "productCategory": "bracelet",
-      "productImage": "https://i.pinimg.com/736x/bd/5a/7f/bd5a7f61463ee2cc8c30835f6bb7a9f7.jpg"
+      "productImage": "https://i.pinimg.com/736x/bd/5a/7f/bd5a7f61463ee2cc8c30835f6bb7a9f7.jpg",
+      "id": "dace"
     },
     {
       "productId": "brc004",
@@ -259,7 +286,8 @@
       "productPrice": "1300",
       "productDescription": "A stunning Pearl bracelet",
       "productCategory": "bracelet",
-      "productImage": "https://i.pinimg.com/564x/66/ac/70/66ac70624d932000d05e46ac50a98590.jpg"
+      "productImage": "https://i.pinimg.com/564x/66/ac/70/66ac70624d932000d05e46ac50a98590.jpg",
+      "id": "ae95"
     }
   ]
 }

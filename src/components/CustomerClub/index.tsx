@@ -4,8 +4,8 @@ interface CustomerClubProps {}
 const CustomerClub: React.FC<CustomerClubProps> = (): JSX.Element => {
   return (
     
-        <div className="flex justify-center bg-gray-200 py-8"> 
-          <div className="flex w-11/12 bg-gray-200 shadow-md"> 
+        <div className="flex justify-center bg-gray-200 py-12"> 
+          <div className="flex w-11/12 bg-gray-200 "> 
           <div className="flex-1 flex items-center justify-center">
               <img src={club} alt="club" className="w-3/4 h-auto rounded-md" />
             </div>
